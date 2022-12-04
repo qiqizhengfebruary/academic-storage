@@ -1,2 +1,2 @@
 # academic-storage
-For some papers
+Just for storage.
